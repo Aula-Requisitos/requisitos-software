@@ -9,9 +9,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 Vinicius Enrique Pinheiro Itakura https://github.com/ViniciusItakura
 
-***1.2.  Nome do Sistema***
-
-Indicar o nome do software proposto
+***1.2.  klitAgenda***
 
 ***1.3.  Propósito do Sistema***
 
