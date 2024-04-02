@@ -7,11 +7,11 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  klitCode***
 
-Vinicius Enrique Pinheiro Itakura https://github.com/ViniciusItakura
-Gustavo Eugênio Tertuliano Ferreira https://github.com/gusteugenio
-Leonardo David dos Santos https://github.com/LeonardoDavidSantos
-Bruno Oliveira de Campos https://github.com/0l1mpus
-Victor Hugo dos Santos Messias https://github.com/victorhsmessias
+*Vinicius Enrique Pinheiro Itakura https://github.com/ViniciusItakura
+*Gustavo Eugênio Tertuliano Ferreira https://github.com/gusteugenio
+*Leonardo David dos Santos https://github.com/LeonardoDavidSantos
+*Bruno Oliveira de Campos https://github.com/0l1mpus
+*Victor Hugo dos Santos Messias https://github.com/victorhsmessias
 
 ***1.2.  klitAgenda***
 
