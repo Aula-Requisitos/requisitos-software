@@ -10,6 +10,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 Vinicius Enrique Pinheiro Itakura https://github.com/ViniciusItakura
 Gustavo Eugênio Tertuliano Ferreira https://github.com/gusteugenio
 Leonardo David dos Santos https://github.com/LeonardoDavidSantos
+Bruno Oliveira de Campos  https://github.com/0l1mp0s
 
 ***1.2.  klitAgenda***
 
