@@ -5,9 +5,9 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ## 1. Introdução
 
-***1.1.  Nome do Grupo***
+***1.1.  klitCode***
 
-Indicar o nome e github dos integrantes do grupo
+Vinicius Enrique Pinheiro Itakura https://github.com/ViniciusItakura
 
 ***1.2.  Nome do Sistema***
 
