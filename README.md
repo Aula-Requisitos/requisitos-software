@@ -17,17 +17,14 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+Nosso sistema oferece uma plataforma completa para o gerenciamento eficiente de reservas em uma empresa. Com uma inteface intuitiva e funcionalidades poderosas, o klitAgenda simplifica o processo de agendamento, permitindo que você utilize o uso de recursos e aumente a produtividade da equipe.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
-
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, desenvolvedores web front-end e back-end.
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+O software foi projetado para empresas, onde há necessidade de controle de saída e entrada de veículos empresariais.
 
 ## 2. Documentos gerais no repositório
 
