@@ -2,7 +2,7 @@
 # Projeto Disciplina: Requisitos de Software
 
 https://github.com/Aula-Requisitos/requisitos-software/blob/2dfaddb4a4e2d921a19ab8018c249548a8ce225c/Personas/Teste.pdf
-
+Personas/Teste.pdf
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
 ## 1. Introdução
