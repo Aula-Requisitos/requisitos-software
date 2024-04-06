@@ -27,6 +27,14 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 O software foi projetado para empresas, onde há necessidade de controle de saída e entrada de veículos empresariais.
 
+
+Cenário atual:
+  Atualmente os cadastros de agendamento são feitos manualmente no whatsapp o que possibilita erros humanos como, criar reservas no mesmo período de outra reserva.
+  Desorganização pela quantidade de reservas.
+
+Cenário depois da implantação:
+  O sistema gerenciará todas as reservas, administrando as regras de negócio, evitando duplicidade de agendamentos, notificação ao cliente para o mesmo ser avisado ao criar a    visita.
+
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos de usuário***
