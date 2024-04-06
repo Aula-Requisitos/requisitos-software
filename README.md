@@ -24,9 +24,8 @@ Nosso sistema oferece uma plataforma completa para o gerenciamento eficiente de 
 Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, desenvolvedores web front-end e back-end.
 <br/><br/>
 ***1.3. Descrição dos usuários***
-
-O software foi projetado para empresas, onde há necessidade de controle de saída e entrada de veículos empresariais.
-
+<br/><br/>
+O software foi projetado para empresas, onde há necessidade de controle de saída e entrada de veículos empresariais. Os Perfis dos nossos usuários são funcionários de empresas responsáveis pelo agendamento ou realização de visitas ao cliente. Entre os usuários que fazem a condução do veículo para realizar a visita, 90% deles são homens e somente 10% são mulheres, sendo eles maiores de 18 anos. A frequência do software pelos usuários é de 5 dias por semana.
 
 Cenário atual:
   Atualmente os cadastros de agendamento são feitos manualmente no whatsapp o que possibilita erros humanos como, criar reservas no mesmo período de outra reserva.
