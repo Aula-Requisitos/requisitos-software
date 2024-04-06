@@ -22,6 +22,7 @@ Nosso sistema oferece uma plataforma completa para o gerenciamento eficiente de 
 ***1.2.  Público Alvo***
 
 Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, desenvolvedores web front-end e back-end.
+<br/>
 ***1.3. Descrição dos usuários***
 
 O software foi projetado para empresas, onde há necessidade de controle de saída e entrada de veículos empresariais.
