@@ -6,6 +6,8 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 ## 1. Introdução
 
 ***1.1.  klitCode***
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/d943c99f-7a17-4fd7-9cab-d27169c3d951)
+
 
  Vinicius Enrique Pinheiro Itakura https://github.com/ViniciusItakura
  <br/>Gustavo Eugênio Tertuliano Ferreira https://github.com/gusteugenio
