@@ -27,7 +27,7 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 <br/><br/>
 O software foi projetado para empresas, onde há necessidade de controle de saída e entrada de veículos empresariais. Os Perfis dos nossos usuários são funcionários de empresas responsáveis pelo agendamento ou realização de visitas ao cliente. Entre os usuários que fazem a condução do veículo para realizar a visita, 90% deles são homens e somente 10% são mulheres, sendo eles maiores de 18 anos. Já entre os que fazem o agendamento, mais de 90% dos usuários são mulheres, com a mesma faixa etária. A frequência do software pelos usuários é de 5 dias por semana. Com relação aos cargos de cada um, os usuários que agendam a visita são auxiliares administrativos e os que fazem a condução são corretores de imóveis.
 
-Planilha dos perfis de usuários:
+Planilha dos perfis de usuários:</br>
 ![planilha-klitcode](https://github.com/Aula-Requisitos/requisitos-software/assets/137667932/aad3c057-559e-4ad6-8521-7206f113b387)
 
 
