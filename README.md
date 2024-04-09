@@ -34,12 +34,12 @@ Planilha dos perfis de usuários:</br>
 
 
 Cenário atual:
-  Cleiton é dono de imobiliária e atualmente sua equipe realiza os cadastros de agendamento manualmente no whatsapp o que possibilita erros humanos como criar reservas no mesmo período de outra reserva, fazendo com que ocorra desorganização pela quantidade de reservas.
-Frequentemente João agenda visitas para um funcionário em horários que o carro já está sendo utilizado, o que resulta em faltas na visita aos clientes e gera insatisfação.
+  Vinicius Eugênio é corretor de imobiliária e atualmente sua equipe realiza os cadastros de agendamento manualmente no whatsapp o que possibilita erros humanos como criar reservas no mesmo período de outra reserva, fazendo com que ocorra desorganização pela quantidade de reservas.
+Frequentemente seus funcionários agendam visitas para um funcionário em horários que o carro já está sendo utilizado, o que resulta em faltas na visita aos clientes e gera insatisfação.
   
 
 Cenário depois da implantação:
-  Joaquim desenvolve um sistema que gerenciará todas as reservas, administrando as regras de negócio, evitando duplicidade de agendamentos e enviando notificação ao funcionário para o mesmo ser avisado ao criar a visita. Isso resulta na dimunuição de faltas a visitas a clientes e melhor satisfação dos clientes da imobiliária.
+  A klitCode percebe o problema e desenvolve um sistema que gerenciará todas as reservas, administrando as regras de negócio, evitando duplicidade de agendamentos e enviando notificação ao funcionário para o mesmo ser avisado ao criar a visita. Isso resulta na dimunuição de faltas a visitas a clientes e melhor satisfação dos clientes da imobiliária.
 
 ## 2. Documentos gerais no repositório
 
