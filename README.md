@@ -31,11 +31,11 @@ Planilha dos perfis de usuários:</br>
 ![planilha-klitcode](https://github.com/Aula-Requisitos/requisitos-software/assets/137667932/aad3c057-559e-4ad6-8521-7206f113b387)
 <br/>
 Personas: 
-![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/08a136a4-1ff6-4617-bdf0-806da2ffc9f4)
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/1d1a3926-91b9-4b0b-b905-1082f5a9d67a)
 <br/>
-![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/8fc94554-7377-4d07-813b-001e13f3a8ce)
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/f18854aa-a14c-4ba3-bad4-c9bac70f9d21)
 <br/>
-![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/828e4e66-6671-4505-8287-ce7cfee7c9ae)
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/7355b47d-4624-4853-9a80-3ceaea217e1d)
 <br/>
 
 
