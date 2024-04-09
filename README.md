@@ -29,6 +29,9 @@ O software foi projetado para empresas, onde há necessidade de controle de saí
 
 Planilha dos perfis de usuários:</br>
 ![planilha-klitcode](https://github.com/Aula-Requisitos/requisitos-software/assets/137667932/aad3c057-559e-4ad6-8521-7206f113b387)
+<br/>
+Personas: 
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/08a136a4-1ff6-4617-bdf0-806da2ffc9f4)
 
 
 
