@@ -43,11 +43,11 @@ Cenário depois da implantação:
 
 ***2.1. Requisitos de usuário***
 
-*<Link para a pasta com os requisitos de usuário.>*
+[*<Link para a pasta com os requisitos de usuário.>*](https://padlet.com/viniciusitakura/kanban-ujjcsnad60lsswef)
 
 ***2.2. Requisitos de sistema***
 
-*<Link para a pasta de requisitos de sistema .>*
+[*<Link para a pasta de requisitos de sistema .>*](https://padlet.com/viniciusitakura/kanban-ujjcsnad60lsswef)
 
 ***2.3. Protótipos***
 
