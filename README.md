@@ -32,7 +32,11 @@ Planilha dos perfis de usuários:</br>
 <br/>
 Personas: 
 ![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/08a136a4-1ff6-4617-bdf0-806da2ffc9f4)
-
+<br/>
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/8fc94554-7377-4d07-813b-001e13f3a8ce)
+<br/>
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/136620727/828e4e66-6671-4505-8287-ce7cfee7c9ae)
+<br/>
 
 
 
