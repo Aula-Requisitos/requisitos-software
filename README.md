@@ -21,7 +21,7 @@ Nosso sistema oferece uma plataforma completa para o gerenciamento eficiente de 
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, desenvolvedores web front-end e back-end.
+Este documento se destina a empresas e clientes que buscam facilitar e simplificar o processo de agendamento, permitindo que você utilize os recursos e aumente sua produtividade.
 <br/><br/>
 ***1.3. Descrição dos usuários***
 <br/><br/>
