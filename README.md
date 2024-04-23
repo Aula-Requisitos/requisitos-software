@@ -68,3 +68,27 @@ Cenário depois da implantação:
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
     
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+
+Identificador	Descrição 
+RF01	Software deverá impedir que usuários não administradores acessem as funcionalidades de adicionar usuário e veículo
+RF02	O sistema permitirá o usuário cadastrar reservas incluindo informações como usuário, data, hora, veículo e obs.
+RF03	O sistema permitirá o usuário visualizar todas as reservas disponíveis com filtro de usuário e data
+RF04	O sistema possuirá um sistema de calendário para facilitar a inclusão das datas
+RF05	O sistema possuirá um sistema de login com possibilidade de recuperação de senha.
+RF06	O Sistema possuirá uma verificação a cada 5 minutos para ver se possui alguma reserva vencida
+RF07	O sistema possuirá uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo
+RF08	O sistema verificara se a o horário fim não é menor que o horário inicio para criar uma nova reserva
+RF09	O sistema exibira apenas as reservas da marca do usuário
+RF10	O sistema verificara se não existe uma reserva vencida a cada troca de menu
+RN01	O sistema possuirá um sistema de notificação ao whatsapp do cliente ao criar uma reserva
+RN02	O sistema possuirá um sistema de notificação via e-mail do cliente ao criar uma reserva1’
+RN03	O sistema deverá ser rápido
+RN04	O Sistema deverá possuir certificado de criptografia SSL 
+RN05	Devera possuir uma interface clean com coloração roxa
+RN06	O sistema deve ser responsivo
+RN07	O sistema deve possuir acessibilidade
+RN08	Sistema deve ser em Single Page Aplication
+RN09	O sistema deve ser em linguagem javascript com React
+RN10	O backend deve ser implementado com o firebase
+![image](https://github.com/Aula-Requisitos/requisitos-software/assets/126911280/4f1429c7-a7f6-4b22-a85e-377d3d614519)
+
