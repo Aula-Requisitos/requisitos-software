@@ -63,25 +63,10 @@ Cenário depois da implantação:
 
 [*<Link para a pasta com os protótipos.>*](https://www.figma.com/file/wYNr0KqXAKncGABYOl7htl/Untitled?type=design&mode=design&t=2EY4E2F8Cz4LL0in-0)
 
+```
 ### Requisitos Funcionais (RF)
 
-| ID   | Descrição                                                                                      |
-| ---- | ---------------------------------------------------------------------------------------------- |
-| RF01 | O sistema deve controlar o acesso de usuários não administradores às funcionalidades de adicionar usuário e veículo. |
-| RF02 | O sistema deve permitir ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações. |
-| RF03 | O sistema deve permitir ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data. |
-| RF04 | O sistema deve possuir um sistema de calendário para facilitar a inclusão das datas. |
-| RF05 | O sistema deve possuir um sistema de login com possibilidade de recuperação de senha. |
-| RF06 | O sistema deve realizar uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida. |
-| RF07 | O sistema deve possuir uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo. |
-| RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma
-
-Claro, aqui está a tabela Markdown para os Requisitos Funcionais (RF):
-
-```markdown
-### Requisitos Funcionais (RF)
-
-| ID   | Descrição                                                                                      |
+| RF   | Descrição                                                                                      |
 | ---- | ---------------------------------------------------------------------------------------------- |
 | RF01 | O sistema deve controlar o acesso de usuários não administradores às funcionalidades de adicionar usuário e veículo. |
 | RF02 | O sistema deve permitir ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações. |
@@ -97,7 +82,7 @@ Claro, aqui está a tabela Markdown para os Requisitos Funcionais (RF):
 
 ### Restrições Não Funcionais (RN)
 
-| ID   | Descrição                                                                                      |
+| RN   | Descrição                                                                                      |
 | ---- | ---------------------------------------------------------------------------------------------- |
 | RN01 | O sistema possui um sistema de notificação ao WhatsApp do cliente ao criar uma reserva. |
 | RN02 | O sistema possui um sistema de notificação via e-mail do cliente ao criar uma reserva. |
@@ -117,8 +102,7 @@ Claro, aqui está a tabela Markdown para os Requisitos Funcionais (RF):
     
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
 
-Identificador	Descrição 
-Claro, aqui está um exemplo de como você pode organizar esses requisitos e restrições em uma planilha Markdown para o README do GitHub:
+
 
 
 
