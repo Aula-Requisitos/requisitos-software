@@ -78,7 +78,7 @@ Cenário depois da implantação:
 | RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
 | RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
 | RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
-```
+
 
 ### Restrições Não Funcionais (RN)
 
