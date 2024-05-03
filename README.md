@@ -63,6 +63,54 @@ Cenário depois da implantação:
 
 [*<Link para a pasta com os protótipos.>*](https://www.figma.com/file/wYNr0KqXAKncGABYOl7htl/Untitled?type=design&mode=design&t=2EY4E2F8Cz4LL0in-0)
 
+### Requisitos Funcionais (RF)
+
+| ID   | Descrição                                                                                      |
+| ---- | ---------------------------------------------------------------------------------------------- |
+| RF01 | O sistema deve controlar o acesso de usuários não administradores às funcionalidades de adicionar usuário e veículo. |
+| RF02 | O sistema deve permitir ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações. |
+| RF03 | O sistema deve permitir ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data. |
+| RF04 | O sistema deve possuir um sistema de calendário para facilitar a inclusão das datas. |
+| RF05 | O sistema deve possuir um sistema de login com possibilidade de recuperação de senha. |
+| RF06 | O sistema deve realizar uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida. |
+| RF07 | O sistema deve possuir uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo. |
+| RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma
+
+Claro, aqui está a tabela Markdown para os Requisitos Funcionais (RF):
+
+```markdown
+### Requisitos Funcionais (RF)
+
+| ID   | Descrição                                                                                      |
+| ---- | ---------------------------------------------------------------------------------------------- |
+| RF01 | O sistema deve controlar o acesso de usuários não administradores às funcionalidades de adicionar usuário e veículo. |
+| RF02 | O sistema deve permitir ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações. |
+| RF03 | O sistema deve permitir ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data. |
+| RF04 | O sistema deve possuir um sistema de calendário para facilitar a inclusão das datas. |
+| RF05 | O sistema deve possuir um sistema de login com possibilidade de recuperação de senha. |
+| RF06 | O sistema deve realizar uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida. |
+| RF07 | O sistema deve possuir uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo. |
+| RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
+| RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
+| RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
+```
+
+### Restrições Não Funcionais (RN)
+
+| ID   | Descrição                                                                                      |
+| ---- | ---------------------------------------------------------------------------------------------- |
+| RN01 | O sistema possui um sistema de notificação ao WhatsApp do cliente ao criar uma reserva. |
+| RN02 | O sistema possui um sistema de notificação via e-mail do cliente ao criar uma reserva. |
+| RN03 | O sistema é rápido. |
+| RN04 | O sistema possui certificado de criptografia SSL. |
+| RN05 | O sistema possui uma interface clean com coloração roxa. |
+| RN06 | O sistema é responsivo. |
+| RN07 | O sistema possui acessibilidade. |
+| RN08 | O sistema é em Single Page Application. |
+| RN09 | O sistema é em linguagem JavaScript com React. |
+| RN10 | O backend é implementado com o Firebase. |
+```
+
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
@@ -70,25 +118,7 @@ Cenário depois da implantação:
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
 
 Identificador	Descrição 
-RF01	Software deverá impedir que usuários não administradores acessem as funcionalidades de adicionar usuário e veículo
-RF02	O sistema permitirá o usuário cadastrar reservas incluindo informações como usuário, data, hora, veículo e obs.
-RF03	O sistema permitirá o usuário visualizar todas as reservas disponíveis com filtro de usuário e data
-RF04	O sistema possuirá um sistema de calendário para facilitar a inclusão das datas
-RF05	O sistema possuirá um sistema de login com possibilidade de recuperação de senha.
-RF06	O Sistema possuirá uma verificação a cada 5 minutos para ver se possui alguma reserva vencida
-RF07	O sistema possuirá uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo
-RF08	O sistema verificara se a o horário fim não é menor que o horário inicio para criar uma nova reserva
-RF09	O sistema exibira apenas as reservas da marca do usuário
-RF10	O sistema verificara se não existe uma reserva vencida a cada troca de menu
-RN01	O sistema possuirá um sistema de notificação ao whatsapp do cliente ao criar uma reserva
-RN02	O sistema possuirá um sistema de notificação via e-mail do cliente ao criar uma reserva1’
-RN03	O sistema deverá ser rápido
-RN04	O Sistema deverá possuir certificado de criptografia SSL 
-RN05	Devera possuir uma interface clean com coloração roxa
-RN06	O sistema deve ser responsivo
-RN07	O sistema deve possuir acessibilidade
-RN08	Sistema deve ser em Single Page Aplication
-RN09	O sistema deve ser em linguagem javascript com React
-RN10	O backend deve ser implementado com o firebase
-![image](https://github.com/Aula-Requisitos/requisitos-software/assets/126911280/4f1429c7-a7f6-4b22-a85e-377d3d614519)
+Claro, aqui está um exemplo de como você pode organizar esses requisitos e restrições em uma planilha Markdown para o README do GitHub:
+
+
 
