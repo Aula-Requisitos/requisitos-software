@@ -63,7 +63,6 @@ Cenário depois da implantação:
 
 [*<Link para a pasta com os protótipos.>*](https://www.figma.com/file/wYNr0KqXAKncGABYOl7htl/Untitled?type=design&mode=design&t=2EY4E2F8Cz4LL0in-0)
 
-```
 ### Requisitos Funcionais (RF)
 
 | RF   | Descrição                                                                                      |
@@ -78,10 +77,10 @@ Cenário depois da implantação:
 | RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
 | RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
 | RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
-```
+
 ### Restrições Não Funcionais (RN)
 
-| ID   | Descrição                                                                                      |
+| RN   | Descrição                                                                                      |
 | ---- | ---------------------------------------------------------------------------------------------- |
 | RN01 | O sistema possui um sistema de notificação ao WhatsApp do cliente ao criar uma reserva. |
 | RN02 | O sistema possui um sistema de notificação via e-mail do cliente ao criar uma reserva. |
