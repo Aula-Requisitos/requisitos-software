@@ -79,10 +79,9 @@ Cenário depois da implantação:
 | RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
 | RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
 ```
-```
 ### Restrições Não Funcionais (RN)
 
-| RN   | Descrição                                                                                      |
+| ID   | Descrição                                                                                      |
 | ---- | ---------------------------------------------------------------------------------------------- |
 | RN01 | O sistema possui um sistema de notificação ao WhatsApp do cliente ao criar uma reserva. |
 | RN02 | O sistema possui um sistema de notificação via e-mail do cliente ao criar uma reserva. |
@@ -94,7 +93,7 @@ Cenário depois da implantação:
 | RN08 | O sistema é em Single Page Application. |
 | RN09 | O sistema é em linguagem JavaScript com React. |
 | RN10 | O backend é implementado com o Firebase. |
-```
+
 
 ## Referências
 
