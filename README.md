@@ -78,6 +78,21 @@ Cenário depois da implantação:
 | RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
 | RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
 
+### História do usuário RF
+
+| RF   | Descrição                                                                                      |
+| ---- | ---------------------------------------------------------------------------------------------- |
+| RF01 | Como dono de imobiliária quero um sistema que controle o acesso de usuários, para poder possuir administradores e usuários comuns. |
+| RF02 | Como dono de imobiliária quero um sistema que permita ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações, para poder ter um melhor controle. |
+| RF03 | Como dono de imobiliária quero um sistema que permita ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data, para ser de fácil acesso à meus colaboradores. |
+| RF04 | Como dono de imobiliária quero um sistema que possua um sistema de calendário para facilitar a inclusão das datas, para agilizar mais ainda os cadastros. |
+| RF05 | Como dono de imobiliária quero um sistema que possua login com possibilidade de recuperação de senha, para facilitar a identificação de quem editou a agenda. |
+| RF06 | Como dono de imobiliária quero um sistema que realiza uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida, para evitar poluição visual na tela. |
+| RF07 | Como dono de imobiliária quero um sistema que possua uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo, para evitar duplicidade. |
+| RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
+| RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
+| RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
+
 ### Restrições Não Funcionais (RN)
 
 | RN   | Descrição                                                                                      |
@@ -92,6 +107,9 @@ Cenário depois da implantação:
 | RN08 | O sistema é em Single Page Application. |
 | RN09 | O sistema é em linguagem JavaScript com React. |
 | RN10 | O backend é implementado com o Firebase. |
+
+## Entrevista
+
 
 
 ## Referências
