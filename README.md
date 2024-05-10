@@ -63,22 +63,39 @@ Cenário depois da implantação:
 
 [*<Link para a pasta com os protótipos.>*](https://www.figma.com/file/wYNr0KqXAKncGABYOl7htl/Untitled?type=design&mode=design&t=2EY4E2F8Cz4LL0in-0)
 
-### Requisitos Funcionais (RF)
+### 3. Requisitos
 
-| RF   | Descrição                                                                                      |
-| ---- | ---------------------------------------------------------------------------------------------- |
-| RF01 | O sistema deve controlar o acesso de usuários não administradores às funcionalidades de adicionar usuário e veículo. |
-| RF02 | O sistema deve permitir ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações. |
-| RF03 | O sistema deve permitir ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data. |
-| RF04 | O sistema deve possuir um sistema de calendário para facilitar a inclusão das datas. |
-| RF05 | O sistema deve possuir um sistema de login com possibilidade de recuperação de senha. |
-| RF06 | O sistema deve realizar uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida. |
-| RF07 | O sistema deve possuir uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo. |
-| RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
-| RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
-| RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
+***3.1. Requisitos Funcionais (RF)***
 
-### História do usuário RF
+| RF   | Descrição                                                                                      | Prioridade |
+| ---- | ---------------------------------------------------------------------------------------------- | ----- |
+| RF01 | O sistema deve controlar o acesso de usuários não administradores às funcionalidades de adicionar usuário e veículo.| Médio |
+| RF02 | O sistema deve permitir ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações. | Alto |
+| RF03 | O sistema deve permitir ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data. | Alto |
+| RF04 | O sistema deve possuir um sistema de calendário para facilitar a inclusão das datas. | Baixo |
+| RF05 | O sistema deve possuir um sistema de login com possibilidade de recuperação de senha. | Médio |
+| RF06 | O sistema deve realizar uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida. | Baixo |
+| RF07 | O sistema deve possuir uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo. | Alto |
+| RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. | Alto |
+| RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. | Alto |
+| RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. | Baixo |
+
+***3.2. Requisitos Não Funcionais (RN)***
+
+| RN   | Descrição                                                                                      |  Prioridade |
+| ---- | ---------------------------------------------------------------------------------------------- | ----- |
+| RN01 | O sistema possui um sistema de notificação ao WhatsApp do cliente ao criar uma reserva. | Baixo |
+| RN02 | O sistema possui um sistema de notificação via e-mail do cliente ao criar uma reserva. | Baixo |
+| RN03 | O sistema deve responder em 2 segundos. | Médio |
+| RN04 | O sistema possui certificado de criptografia SSL. | Médio |
+| RN05 | O sistema possui uma interface clean com coloração roxa. | Baixo |
+| RN06 | O sistema é responsivo. | Alto |
+| RN07 | O sistema possui acessibilidade. | Alto |
+| RN08 | O sistema é em Single Page Application. | Alto |
+| RN09 | O sistema é em linguagem JavaScript com React. | Baixo |
+| RN10 | O backend é implementado com o Firebase. | Baixo |	
+
+### 4. História do usuário (RF)
 
 | RF   | Descrição                                                                                      |
 | ---- | ---------------------------------------------------------------------------------------------- |
@@ -93,22 +110,37 @@ Cenário depois da implantação:
 | RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
 | RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
 
-### Restrições Não Funcionais (RN)
-
-| RN   | Descrição                                                                                      |
-| ---- | ---------------------------------------------------------------------------------------------- |
-| RN01 | O sistema possui um sistema de notificação ao WhatsApp do cliente ao criar uma reserva. |
-| RN02 | O sistema possui um sistema de notificação via e-mail do cliente ao criar uma reserva. |
-| RN03 | O sistema é rápido. |
-| RN04 | O sistema possui certificado de criptografia SSL. |
-| RN05 | O sistema possui uma interface clean com coloração roxa. |
-| RN06 | O sistema é responsivo. |
-| RN07 | O sistema possui acessibilidade. |
-| RN08 | O sistema é em Single Page Application. |
-| RN09 | O sistema é em linguagem JavaScript com React. |
-| RN10 | O backend é implementado com o Firebase. |
-
 ## Entrevista
+
+1.  **Como é feito o agendamento de visitas atualmente?**
+	R: Atualmente nós realizamos por meio de um grupo de whatsapp.
+	
+2. **Quais os tipos de usuários?**
+	R: Seria dois tipos, administrador e corretor.
+
+3. **Qual a média de usuários vocês precisam usar?**
+	R: No nosso caso, precisariamos de uma média de 7 usuários, seriam 5 corretores e 2 administradores.
+	
+4. **Quais os principais problemas que vocês enfrentam hoje?**
+	R: Hoje enfrentamos duplicidade no agendamento, falta de organização e falta de comunicação
+
+5. **Vocês acreditam que um aplicativo irá te ajudar? Se sim, quais as principais funcionalidades necessárias?**
+	R: Sim, pois no aplicativo deverá ter um sistema de notificação para o corretor responsável, melhor 		   										organização com uma tabela de agendamentos marcados, sistema de verficação de duplicidade e sistema para adicionar veículos e usuários.
+
+6. **Em quais plataformas vocês desejam utilizar o sistema?**
+	R: Gostaria de utilizar no celular e para o computador.
+
+7. **Como vocês lidam com cancelamentos e remarcações de agendamentos atualmente?**
+	R: Hoje em dia, só enviamos as informações no grupo de whatsapp.
+
+8. **Como vocês lidam com situações de esquecimento dos agendamentos?**
+	R: Normalmente é uma dor de cabeça, pois o cliente fica irritado, o que consequentemente resulta na perca da locação.
+
+9. **Qual a média de visitas diárias?**
+	R: Geralmente são 20 visitas.
+ 
+10. **Em qual grau (baixo, médio ou alto) a falta de um sistema de agendamento afeta a empresa atualmente?**
+	R: Médio, porque não impossibilita o agendamento da visita, mas tem vários problemas de organização, com a duplicidade e os esquecimentos.
 
 
 
