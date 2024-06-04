@@ -63,7 +63,7 @@ Cenário depois da implantação:
 ***2.3. Protótipos***
 
 [*<Link para a pasta com os protótipos.>*](https://www.figma.com/file/wYNr0KqXAKncGABYOl7htl/Untitled?type=design&mode=design&t=2EY4E2F8Cz4LL0in-0)
-<br/>[*<Link para a pasta com os protótipos.>*](https://github.com/Aula-Requisitos/requisitos-software/tree/c1051a071e7bcc5a242dd87b1914e294f2a7383b/Prot%C3%B3tipos)
+<br/>[*<Link para a pasta com os protótipos de baixa fidelidade.>*](https://github.com/Aula-Requisitos/requisitos-software/tree/c1051a071e7bcc5a242dd87b1914e294f2a7383b/Prot%C3%B3tipos)
 
 
 
