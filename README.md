@@ -83,13 +83,15 @@ Cenário depois da implantação:
 | RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. | Alto |
 | RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. | Alto |
 | RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. | Baixo |
+| RF11 | O sistema possui um programa de notificação ao WhatsApp do cliente ao criar uma reserva. | Baixo |
+| RF12 | O sistema possui um programa de notificação via e-mail do cliente ao criar uma reserva. | Baixo |
 
 ***3.2. Requisitos Não Funcionais (RN)***
 
 | RN   | Descrição                                                                                      |  Prioridade |
 | ---- | ---------------------------------------------------------------------------------------------- | ----- |
-| RN01 | O sistema possui um sistema de notificação ao WhatsApp do cliente ao criar uma reserva. | Baixo |
-| RN02 | O sistema possui um sistema de notificação via e-mail do cliente ao criar uma reserva. | Baixo |
+| RN01 | O sistema deve notificar o cliente 1 hora antes do horário reservado via WhatsApp. | Baixo |
+| RN02 | O sistema deve receber reservas de até no maximo 45 dias. | Baixo |
 | RN03 | O sistema deve responder em 2 segundos. | Médio |
 | RN04 | O sistema possui certificado de criptografia SSL. | Médio |
 | RN05 | O sistema possui uma interface clean com coloração roxa. | Baixo |
@@ -99,20 +101,20 @@ Cenário depois da implantação:
 | RN09 | O sistema é em linguagem JavaScript com React. | Baixo |
 | RN10 | O backend é implementado com o Firebase. | Baixo |	
 
-### 4. História do usuário (RF)
+### 4. História do usuário (HU)
 
-| RF   | Descrição                                                                                      |
+| HU   | Descrição                                                                                      |
 | ---- | ---------------------------------------------------------------------------------------------- |
-| RF01 | Como dono de imobiliária quero um sistema que controle o acesso de usuários, para poder possuir administradores e usuários comuns. |
-| RF02 | Como dono de imobiliária quero um sistema que permita ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações, para poder ter um melhor controle. |
-| RF03 | Como dono de imobiliária quero um sistema que permita ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data, para ser de fácil acesso à meus colaboradores. |
-| RF04 | Como dono de imobiliária quero um sistema que possua um sistema de calendário para facilitar a inclusão das datas, para agilizar mais ainda os cadastros. |
-| RF05 | Como dono de imobiliária quero um sistema que possua login com possibilidade de recuperação de senha, para facilitar a identificação de quem editou a agenda. |
-| RF06 | Como dono de imobiliária quero um sistema que realiza uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida, para evitar poluição visual na tela. |
-| RF07 | Como dono de imobiliária quero um sistema que possua uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo, para evitar duplicidade. |
-| RF08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
-| RF09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
-| RF10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
+| HU01 | Como dono de imobiliária quero um sistema que controle o acesso de usuários, para poder possuir administradores e usuários comuns. |
+| HU02 | Como dono de imobiliária quero um sistema que permita ao usuário cadastrar reservas, incluindo informações como usuário, data, hora, veículo e observações, para poder ter um melhor controle. |
+| HU03 | Como dono de imobiliária quero um sistema que permita ao usuário visualizar todas as reservas disponíveis com filtro de usuário e data, para ser de fácil acesso à meus colaboradores. |
+| HU04 | Como dono de imobiliária quero um sistema que possua um sistema de calendário para facilitar a inclusão das datas, para agilizar mais ainda os cadastros. |
+| HU05 | Como dono de imobiliária quero um sistema que possua login com possibilidade de recuperação de senha, para facilitar a identificação de quem editou a agenda. |
+| HU06 | Como dono de imobiliária quero um sistema que realiza uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida, para evitar poluição visual na tela. |
+| HU07 | Como dono de imobiliária quero um sistema que possua uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo, para evitar duplicidade. |
+| HU08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
+| HU09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
+| HU10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
 
 ## Entrevista
 
