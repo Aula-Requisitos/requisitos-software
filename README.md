@@ -63,6 +63,9 @@ Cenário depois da implantação:
 ***2.3. Protótipos***
 
 [*<Link para a pasta com os protótipos.>*](https://www.figma.com/file/wYNr0KqXAKncGABYOl7htl/Untitled?type=design&mode=design&t=2EY4E2F8Cz4LL0in-0)
+[*<Link para a pasta com os protótipos de baixa fidelidade.>*](ninjamock.com/Designer/Workplace/195325781)
+
+
 
 ### 3. Requisitos
 
