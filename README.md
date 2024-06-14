@@ -118,6 +118,8 @@ Cenário depois da implantação:
 | HU11 | Como dono de imobiliária quero um sistema que notifique o cliente via WhatsApp ao criar uma reserva, para garantir que o cliente esteja informado sobre a nova reserva, melhorando a comunicação e o serviço ao cliente. |
 | HU12 | Como dono de imobiliária quero um sistema que notifique o cliente via e-mail ao criar uma reserva, para assegurar que o cliente esteja informado sobre a nova reserva, melhorando a comunicação e o serviço ao cliente. |
 
+## Entrevista gravada
+https://drive.google.com/file/d/1-_nhg1XCAb1DpspsF-pjnFQlFpDhEUYp/view?usp=sharing
 
 ## Entrevista
 
