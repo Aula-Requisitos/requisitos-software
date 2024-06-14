@@ -112,9 +112,12 @@ Cenário depois da implantação:
 | HU05 | Como dono de imobiliária quero um sistema que possua login com possibilidade de recuperação de senha, para facilitar a identificação de quem editou a agenda. |
 | HU06 | Como dono de imobiliária quero um sistema que realiza uma verificação a cada 5 minutos para verificar se possui alguma reserva vencida, para evitar poluição visual na tela. |
 | HU07 | Como dono de imobiliária quero um sistema que possua uma verificação para impedir a criação de reservas com a mesma data e mesmo veículo, para evitar duplicidade. |
-| HU08 | O sistema deve verificar se o horário de término não é menor que o horário de início para criar uma nova reserva. |
-| HU09 | O sistema deve exibir apenas as reservas da empresa do usuário. |
-| HU10 | O sistema deve verificar se não existe uma reserva vencida a cada troca de menu. |
+| HU08 | Como dono de imobiliária quero um sistema que verifique se o horário de término não é menor que o horário de início ao criar uma nova reserva, para garantir que as reservas sejam registradas com horários válidos e evitar conflitos de agenda. |
+| HU09 | Como dono de imobiliária quero um sistema que exiba apenas as reservas da empresa do usuário, para assegurar que cada usuário veja somente as reservas pertinentes à sua empresa e garantir privacidade e organização. |
+| HU10 | Como dono de imobiliária quero um sistema que verifique se não existe uma reserva vencida a cada troca de menu, para manter a interface limpa e atualizada, removendo automaticamente as reservas que já expiraram. |
+| HU11 | Como dono de imobiliária quero um sistema que notifique o cliente via WhatsApp ao criar uma reserva, para garantir que o cliente esteja informado sobre a nova reserva, melhorando a comunicação e o serviço ao cliente. |
+| HU12 | Como dono de imobiliária quero um sistema que notifique o cliente via e-mail ao criar uma reserva, para assegurar que o cliente esteja informado sobre a nova reserva, melhorando a comunicação e o serviço ao cliente. |
+
 
 ## Entrevista
 
